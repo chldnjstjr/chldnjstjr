@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning Marketing
 
 
-<a href="https://velog.io/@chldnjstjr" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@chldnjstjr" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://chldnjstjr.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100003058136137" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=FACEBOOK&logoColor=white"/></a>
 <a href="https://www.instagram.com/fabius58/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=white"/></a>
 <a href="mailto:wonseokchoi@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
