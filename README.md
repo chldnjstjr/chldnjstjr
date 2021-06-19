@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div style="border: 3px solid gold; float: left; width: 33%;">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldnjstjr&langs_count=5&hide=javascript,SCSS,Shell,Ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldnjstjr&langs_count=5&hide=html,javascript,SCSS,Shell,Ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
