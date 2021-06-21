@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 </div>
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chldnjstjr)](https://velog.io/@eungyeole) 
+
+
 <div>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chldnjstjr/chldnjstjr%2Fgjbae1212%2Fhit-counter"/></a>     
   </div>
