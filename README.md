@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/fabius58/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=white"/></a>
 <a href="mailto:wonseokchoi@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chldnjstjr&color=dark)](https://github.com/eungyeole/velog-readme-stats) 
+
+
 <div style="border: 3px solid gold; float: left; width: 33%;">
 
   ![WonSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldnjstjr&show_icons=true&theme=tokyonight)
@@ -34,10 +37,6 @@ Here are some ideas to get you started:
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldnjstjr&langs_count=5&hide=html,javascript,SCSS,Shell,Ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chldnjstjr&color=dark)](https://github.com/eungyeole/velog-readme-stats) 
-
 
 <div>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chldnjstjr/chldnjstjr%2Fgjbae1212%2Fhit-counter"/></a>     
