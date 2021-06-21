@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chldnjstjr)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chldnjstjr&color=dark)](https://github.com/eungyeole/velog-readme-stats) 
 
 
 <div>
