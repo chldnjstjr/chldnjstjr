@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/fabius58/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=white"/></a>
 <a href="mailto:wonseokchoi@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chldnjstjr&color=dark)](https://github.com/eungyeole/velog-readme-stats) 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chldnjstjr&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=chldnjstjr)
 
 
 <div style="border: 3px solid gold; float: left; width: 33%;">
