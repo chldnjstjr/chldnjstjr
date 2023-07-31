@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 <!--
 **chldnjstjr/chldnjstjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/profile.php?id=100003058136137" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=FACEBOOK&logoColor=white"/></a>
 <a href="https://www.instagram.com/fabius58/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=INSTAGRAM&logoColor=white"/></a>
 <a href="mailto:wonseokchoi@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chldnjstjr&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=chldnjstjr)
-
 
 <div style="border: 3px solid gold; float: left; width: 33%;">
 
