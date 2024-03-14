@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  
-### 🌱 I’m currently learning Marketing
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 
 <a href="https://velog.io/@chldnjstjr" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
@@ -27,11 +26,17 @@ Here are some ideas to get you started:
   ![WonSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldnjstjr&show_icons=true&theme=tokyonight)
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chldnjstjr&theme=tokyonight)](https://git.io/streak-stats)
+
+
 <div style="border: 3px solid gold; float: left; width: 33%;">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldnjstjr&langs_count=5&hide=html,javascript,SCSS,Shell,Ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+
 <div>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chldnjstjr/chldnjstjr%2Fgjbae1212%2Fhit-counter"/></a>     
   </div>
+
+
