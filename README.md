@@ -1,3 +1,7 @@
+<div>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chldnjstjr/chldnjstjr%2Fgjbae1212%2Fhit-counter"/></a>     
+  </div>
+
 ### 안녕하세요 👋
 
 <!--
@@ -29,14 +33,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chldnjstjr&theme=tokyonight)](https://git.io/streak-stats)
 
 
-<div style="border: 3px solid gold; float: left; width: 33%;">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldnjstjr&langs_count=5&hide=html,javascript,SCSS,Shell,Ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-<div>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chldnjstjr/chldnjstjr%2Fgjbae1212%2Fhit-counter"/></a>     
-  </div>
-
-
+![](./profile-3d-contrib/profile-night-green.svg)
