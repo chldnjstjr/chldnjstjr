@@ -20,7 +20,7 @@
 - ☺️ I'm someone who feels at ease when looking at data
 - 🖥️ I'm currently working on a pet project to develop automation of dashboards and web reports that can be used in marketing
 
-<a href="www.regression.co.kr" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.regression.co.kr" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:wschoi@gallup.co.kr" target="_blank"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
 
 <div style="border: 3px solid gold; float: left; width: 33%;">
